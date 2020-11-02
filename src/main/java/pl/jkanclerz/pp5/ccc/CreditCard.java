@@ -14,7 +14,7 @@ public class CreditCard {
     }
 
     public void assignLimit(BigDecimal bigDecimal) {
-    }
+    }git config [--global] user.name "Full Name"
 
     public BigDecimal getCurrentBalance() {
         return null;
